@@ -88,3 +88,9 @@ body {
     z-index: 1;
     transform: scale(0.95);
 }
+
+@media(max-width:768px) {
+    #container {
+        width: 80vw;
+    }
+}
